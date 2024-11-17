@@ -1,7 +1,7 @@
 
 # Test E-Commerce Store with ASP.NET
 
-This project is a simple, test e-commerce store developed using **ASP.NET Core**. The purpose of this project is solely for practicing and learning the basic concepts of web development and is **not suitable for use in a production or release environment**.
+This project is a simple e-commerce store developed using **ASP.NET Core**. The primary goal of this project is to practice and learn basic **web development** concepts, and it is not suitable for production or deployment. It was created solely as a tool to enhance **personal skills** in web development.
 
 ## Features:
 - **Admin Panel:** The ability to add, delete, and edit products and categories, as well as manage users. Note that this panel is accessible to all users, meaning any user can access it. This feature is designed for testing and educational purposes and is not suitable for production environments.
@@ -22,7 +22,7 @@ Due to incomplete and messy code, this project is **for educational purposes onl
 
 # فروشگاه اینترنتی تستی با ASP.NET
 
-این پروژه یک فروشگاه اینترنتی ساده و تستی است که با استفاده از **ASP.NET Core** توسعه یافته است. هدف این پروژه صرفاً تمرین و یادگیری مفاهیم پایه‌ای توسعه وب است و به هیچ وجه برای استفاده در محیط تولید یا انتشار مناسب نیست.
+این پروژه یک فروشگاه اینترنتی ساده است که با استفاده از ASP.NET Core توسعه داده شده است. هدف اصلی این پروژه، تمرین و یادگیری مفاهیم پایه‌ای توسعه وب بوده و برای استفاده در محیط تولید یا انتشار مناسب نیست. این پروژه تنها به عنوان ابزاری برای ارتقای مهارت‌های فردی در زمینه وب‌سایت‌سازی ایجاد شده است. 
 
 ## ویژگی‌ها:
 - **پنل ادمین:** قابلیت افزودن، حذف و ویرایش محصولات و دسته‌بندی‌ها، به همراه مدیریت کاربران. توجه داشته باشید که این پنل برای تمامی کاربران در دسترس است و هر کاربری می‌تواند به آن دسترسی پیدا کند. این ویژگی برای پروژه‌های آزمایشی و آموزشی طراحی شده است و برای محیط‌های تولیدی مناسب نیست.
