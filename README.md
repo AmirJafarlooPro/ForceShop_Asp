@@ -1,4 +1,25 @@
 
+# Test E-Commerce Store with ASP.NET
+
+This project is a simple, test e-commerce store developed using **ASP.NET Core**. The purpose of this project is solely for practicing and learning the basic concepts of web development and is **not suitable for use in a production or release environment**.
+
+## Features:
+- **Admin Panel:** The ability to add, delete, and edit products and categories, as well as manage users. Note that this panel is accessible to all users, meaning any user can access it. This feature is designed for testing and educational purposes and is not suitable for production environments.
+- **Authentication:** Users can register and log into their accounts. The authentication system is implemented using ASP.NET Identity.
+- **View and Purchase Products:** Users can view products, add them to their shopping cart, and proceed with the checkout process. The checkout process is implemented in this project, but due to the lack of an online payment gateway, the checkout process only works as a mockup (demonstration).
+- **No Payment Gateway:** This project lacks an online payment system. Therefore, actual payments cannot be made, and the checkout process is only for demonstrating how the shopping cart and order completion are managed.
+
+## Important Notes:
+- This project is only a prototype and is created for practice and learning.
+- **The code contains numerous bugs and security vulnerabilities** and is not suitable for use in an operational environment.
+- The project structure is designed solely for introducing basic concepts of e-commerce stores.
+
+## Warning:
+Due to incomplete and messy code, this project is **for educational purposes only** and **should not be published in a real-world environment**.
+
+--- 
+
+
 # فروشگاه اینترنتی تستی با ASP.NET
 
 این پروژه یک فروشگاه اینترنتی ساده و تستی است که با استفاده از **ASP.NET Core** توسعه یافته است. هدف این پروژه صرفاً تمرین و یادگیری مفاهیم پایه‌ای توسعه وب است و به هیچ وجه برای استفاده در محیط تولید یا انتشار مناسب نیست.
