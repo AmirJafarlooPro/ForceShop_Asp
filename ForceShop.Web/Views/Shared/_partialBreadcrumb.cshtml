@@ -1,0 +1,34 @@
+﻿@{
+    string pagename;
+
+    if (TempData["PageName"] == null)
+    {
+        pagename = "404";
+    }
+    else
+    {
+        pagename = TempData["PageName"].ToString();
+    }
+}
+
+<section class="breadcrumb-section pt-0 ">
+    <div class="container-fluid-lg">
+        <div class="row">
+            <div class="col-12">
+                <div class="breadcrumb-contain ">
+                    <h2 class="Setfont">@pagename</h2>
+                    <nav>
+                        <ol class="breadcrumb mb-0">
+                            <li class="breadcrumb-item">
+                                <a asp-action="Index" asp-controller="Home">
+                                    <i class="fa-solid fa-house"></i>
+                                </a>
+                            </li>
+                            <li class="breadcrumb-item active Setfont">@pagename</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,28 @@
+﻿@model string
+@{
+    ViewData["Title"] = "موفقیت خرید";
+}
+
+<h1 dir="ltr" class="text-center" style="color: #4CAF50; font-weight: bold; font-size: 2.5rem;">
+    <i class="bi bi-check-circle-fill" style="color: #4CAF50; margin-right: 10px;"></i>
+    پرداخت با موفقیت انجام شد 
+</h1>
+<br />
+<hr />
+<br />
+<div class="alert alert-success" style="background-color: #e7f5e9; border-radius: 15px; padding: 30px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);">
+    <h2 class="text-center" style="color: #388e3c; font-size: 1.8rem;">
+        کاربر عزیز، <span style="color: #2e7d32;">@Model</span>
+    </h2>
+    <br />
+    <p class="text-center" style="font-size: 1.2rem;">
+        همونطور که متوجه هستید پروژه تستی هست و فاقد درگاه پرداخت است . به زودی پروژه کامل میشود !
+    </p>
+    <div class="text-center mt-4">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-lg btn-primary" style="padding: 10px 40px; font-size: 1.2rem; border-radius: 50px; transition: background-color 0.3s ease;">
+            بازگشت به صفحه اصلی
+        </a>
+    </div>
+</div>
+<br />
+

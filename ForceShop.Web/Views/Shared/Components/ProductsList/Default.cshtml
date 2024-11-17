@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Product>
+
+@foreach (var item in Model)
+{
+    <div>
+        <div class="product-box product-white-bg wow fadeIn">
+            <div class="product-image">
+                <a asp-controller="Product" asp-action="ShowProduct" asp-route-id="@item.ID">
+                    <img src="/Images/@item.ProductImages.FirstOrDefault()?.ImageName"
+                         class="img-fluid blur-up lazyload" alt="">
+                </a>
+                <ul class="product-option">
+                    <li  data-bs-toggle="tooltip" data-bs-placement="top" title="مشاهده">
+                        <a asp-controller="Product" asp-action="ShowProduct" asp-route-id="@item.ID">
+                            <i data-feather="eye"></i>
+                        </a>
+                    </li>
+
+                    <li  data-bs-toggle="tooltip" data-bs-placement="top" title="مقایسه">
+                        <a href="#">
+                            <i data-feather="refresh-cw"></i>
+                        </a>
+                    </li>
+
+                    <li  data-bs-toggle="tooltip" data-bs-placement="top" title="نشان">
+                        <a href="#" class="notifi-wishlist">
+                            <i data-feather="heart"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="product-detail position-relative">
+                <a href="product-left-thumbnail.html">
+                    <h6 class="name">
+                        @item.Title
+                    </h6>
+                </a>
+
+                <h6 class="sold weight text-content fw-normal">موجود</h6>
+
+                <h6 class="price theme-color">@item.Price.ToString("#,0") تومان </h6>
+
+            </div>
+        </div>
+    </div>
+}
+
+

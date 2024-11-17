@@ -1,0 +1,133 @@
+﻿@model OTPVerifyViewModel
+
+@{
+    ViewData["Title"] = "کد تایید ایمیل";
+}
+
+
+<partial name="_partialBreadcrumb" />
+
+<!-- log in section start -->
+<section class="log-in-section otp-section section-b-space" dir="ltr">
+    <div class="container-fluid-lg">
+        <div class="row">
+            <div class="col-xxl-6 col-xl-5 col-lg-6 d-lg-block d-none ms-auto">
+                <div class="image-contain">
+                    <img src="../assets/images/inner-page/otp.png" class="img-fluid" alt="">
+                </div>
+            </div>
+
+            <div class="col-xxl-4 col-xl-5 col-lg-6 col-sm-8 mx-auto">
+                <div class="d-flex align-items-center justify-content-center h-100">
+                    <div class="log-in-box">
+                        <div class="log-in-title">
+                            <h3 class="text-title">لطفاً رمز عبور یکبار مصرف را برای تأیید حساب خود وارد کنید</h3>
+                            <br/>
+                            <h5 class="text-content" dir="rtl">یک کد ارسال شده است به <span dir="ltr"> @Model.Email.ToCensorEmail(4) </span></h5>
+                        </div>
+
+                        <!-- Start of the form -->
+                        <form asp-controller="Account" asp-action="OTPEmail" method="post" onsubmit="return collectOTP();">
+                            <input asp-for="Email" type="hidden"/>
+                            <div id="otp" class="inputs d-flex flex-row justify-content-center">
+                                <input class="text-center form-control rounded" type="text" id="first" maxlength="1" placeholder="0" required oninput="moveFocus(this, 'second');">
+                                <input class="text-center form-control rounded" type="text" id="second" maxlength="1" placeholder="0" required oninput="moveFocus(this, 'third');" onkeydown="handleBackspace(event, 'first');">
+                                <input class="text-center form-control rounded" type="text" id="third" maxlength="1" placeholder="0" required oninput="moveFocus(this, 'fourth');" onkeydown="handleBackspace(event, 'second');">
+                                <input class="text-center form-control rounded" type="text" id="fourth" maxlength="1" placeholder="0" required oninput="moveFocus(this, 'fifth');" onkeydown="handleBackspace(event, 'third');">
+                                <input class="text-center form-control rounded" type="text" id="fifth" maxlength="1" placeholder="0" required oninput="moveFocus(this, 'sixth');" onkeydown="handleBackspace(event, 'fourth');">
+                                <input class="text-center form-control rounded" type="text" id="sixth" maxlength="1" placeholder="0" required onkeydown="handleBackspace(event, 'fifth');">
+                            </div>
+                            <!-- Hidden input to store the complete OTP -->
+                            <input type="hidden" name="VerifyCode" id="otpCode"/>
+
+                            <div class="send-box pt-4">
+                                <h5>
+                                    کدی دریافت نکردید ؟
+                                    <a href="javascript:void(0)" id="resendBtn" class="theme-color fw-bold" onclick="resendCode();">
+                                        فرآیند را دوباره انجام دهید
+                                    </a>
+                                </h5>
+                                @*                                 <span id="timer" style="display:none;">30 ثانیه بعد ارسال مجدد فعال می‌شود</span>
+
+                                <input type="hidden" name="email" value="@email" /> <!-- اصلاح نام فیلد --> *@
+                            </div>
+
+                            <button class="btn btn-animation w-100 mt-3 Setfont" type="submit">
+                                اعتبارسنجی
+                            </button>
+                            <br/>
+                            <b><span asp-validation-for="VerifyCode"></span></b>
+                        </form>
+                        <!-- End of the form -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- log in section end -->
+
+<script>
+    let timer; // متغیر برای ذخیره تایمر
+
+    function collectOTP() {
+        const first = document.getElementById('first').value;
+        const second = document.getElementById('second').value;
+        const third = document.getElementById('third').value;
+        const fourth = document.getElementById('fourth').value;
+        const fifth = document.getElementById('fifth').value;
+        const sixth = document.getElementById('sixth').value;
+
+        // جمع‌آوری و ساختن کد OTP
+        const otpCode = first + second + third + fourth + fifth + sixth;
+
+        // قرار دادن کد OTP در ورودی مخفی
+        document.getElementById('otpCode').value = otpCode;
+
+        return true; // فرم به درستی ارسال می‌شود
+    }
+
+    function moveFocus(current, nextId) {
+        if (current.value.length >= current.maxLength) {
+            document.getElementById(nextId).focus();
+        }
+    }
+
+    function handleBackspace(event, previousId) {
+        if (event.key === 'Backspace' && event.target.value === '') {
+            document.getElementById(previousId).focus();
+        }
+    }
+
+    // function resendCode() {
+    //     const resendBtn = document.getElementById('resendBtn');
+    //     const timerDisplay = document.getElementById('timer');
+
+    //     غیر فعال کردن دکمه و نمایش تایمر
+    //     resendBtn.style.pointerEvents = 'none'; غیر فعال کردن دکمه
+    //     resendBtn.style.color = 'gray'; تغییر رنگ دکمه
+    //     timerDisplay.style.display = 'block'; نمایش تایمر
+
+    //     let countdown = 30; مدت زمان تایمر
+
+    //     شروع تایمر
+    //     timer = setInterval(() => {
+    //         countdown--;
+    //         timerDisplay.textContent = `${countdown} ثانیه بعد ارسال مجدد فعال می‌شود`;
+
+    //         if (countdown <= 0) {
+    //             clearInterval(timer); توقف تایمر
+    //             resendBtn.style.pointerEvents = 'auto'; فعال کردن دکمه
+    //             resendBtn.style.color = ''; بازگشت به رنگ اولیه دکمه
+    //             timerDisplay.style.display = 'none'; مخفی کردن تایمر
+    //             timerDisplay.textContent = ''; پاک کردن متن تایمر
+    //         }
+    //     }, 1000); هر ثانیه یک بار
+
+    //     ارسال فرم به کنترلر
+    //     const form = document.querySelector('form'); انتخاب فرم اصلی
+    //     form.submit(); ارسال فرم
+    // }
+
+</script>
+

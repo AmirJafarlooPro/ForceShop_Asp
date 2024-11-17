@@ -1,0 +1,153 @@
+﻿@using ForceShop.Domian.Models.Order
+@model ForceShop.Domian.Models.Order.Order?
+@{
+    ViewData["Title"] = $"سبد خرید";
+}
+
+<partial name="_partialBreadcrumb" />
+
+<br />
+
+<!-- Cart Section Start -->
+<section class="cart-section section-b-space">
+    <div class="container-fluid-lg">
+        <div class="row g-sm-5 g-3">
+            <div class="col-xxl-9">
+                <div class="cart-table">
+                    <div class="table-responsive-xl">
+                        <table class="table">
+                            <tbody>
+
+                                @{
+
+                                    IEnumerable<OrderDetail?> CleanedModel = new List<OrderDetail?>();
+
+                                    if (Model != null)
+                                    {
+                                        CleanedModel = Model.OrderDetails.Where(p => p.Product.IsDelete == false);
+                                    }
+
+                                }
+
+                                @if (!CleanedModel.IsNullOrEmpty())
+                                {
+                                    @foreach (var item in CleanedModel)
+                                    {
+                                        <tr class="product-box-contain">
+
+                                            <td class="product-detail">
+                                                <div class="product border-0">
+                                                    <a asp-controller="Product" asp-action="ShowProduct" asp-route-id="@item.ProductID" class="product-image">
+                                                        <img src="/images/@item.Product.ProductImages.FirstOrDefault()?.ImageName"
+                                                             class="img-fluid blur-up lazyload" alt="">
+                                                    </a>
+                                                    <div class="product-detail">
+                                                        <ul>
+                                                            <li class="name">
+                                                                <a asp-controller="Product" asp-action="ShowProduct" asp-route-id="@item.ProductID"><b>@item.Product.Title</b></a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </td>
+
+                                            <!--Price-->
+                                            <td class="subtotal">
+                                                <h4 class="table-title text-content">قیمت </h4>
+                                                <h5>@item.Price.ToString("#,0") تومان</h5>
+
+                                            </td>
+
+                                            <td class="quantity">
+                                                <h4 class="table-title text-content">تعداد</h4>
+                                                <h5>@item.Count</h5>
+                                            </td>
+
+                                            <td class="subtotal">
+                                                <h4 class="table-title text-content">کل</h4>
+                                                <h5>@((item.Price * item.Count).ToString("#,0")) تومان</h5>
+                                            </td>
+
+                                            <td class="save-remove">
+                                                <h4 class="table-title text-content">عملیات</h4>
+                                                <a asp-controller="Product" asp-action="DecreaseCountOrderDetail" asp-route-productID="@item.ProductID" class="save notifi-wishlist">کاهش تعداد</a>
+                                                <a asp-controller="Product" asp-action="RemoveFromCart" asp-route-productID="@item.ProductID" class="remove close_button">حدف</a>
+                                            </td>
+                                        </tr>
+
+                                    }
+                                }
+                                else
+                                {
+                                    <h2>سبد خرید خالی است !</h2>
+                                }
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xxl-3">
+                <div class="summery-box p-sticky">
+                    <div class="summery-header">
+                        <h3>مجموع هزینه </h3>
+                    </div>
+
+                    <div class="summery-contain">
+                        <ul>
+
+                            @{
+                                decimal totalprice = 0;
+                                decimal sendPrice = 0;
+                                if (Model != null)
+                                {
+                                    totalprice = Model.OrderDetails.Where(p => p.Product.IsDelete == false).Sum(p => p.Price * p.Count);
+                                    
+                                    if (!Model.OrderDetails.Where(p => p.Product.IsDelete == false).IsNullOrEmpty())
+                                    {
+                                        sendPrice = 75000;
+                                    }
+                                }
+                            }
+
+                            <li>
+                                <h4>هزینه ی کل</h4>
+                                <h4 class="price">@totalprice.ToString("#,0") تومان</h4>
+                            </li>
+
+
+
+                            <li class="align-items-start">
+                                <h4>هزینه ارسال :</h4>
+                                <h4 class="price text-end">@sendPrice.ToString("#,0") تومان</h4>
+                            </li>
+                        </ul>
+                    </div>
+
+                    @{
+                        decimal EndPrice = totalprice + sendPrice;
+                    }
+                    <ul class="summery-total">
+                        <li class="list-total border-top-0">
+                            <h4>مبلغ نهایی (تومان)</h4>
+                            <h4 class="price theme-color">@EndPrice.ToString("#,0") تومان</h4>
+                        </li>
+                    </ul>
+
+                    <div class="button-group cart-button">
+                        <ul>
+                            <li>
+                                <button onclick="location.href = '/SubmitPrice';" class="btn btn-animation proceed-btn fw-bold">
+                                    تسویه حساب
+                                </button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Cart Section End -->

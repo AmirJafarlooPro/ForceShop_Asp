@@ -1,0 +1,49 @@
+﻿@model Product
+
+<div>
+    <div class="product-box-3 h-100 wow fadeInUp">
+        <div class="product-header">
+            <div class="product-image">
+                <a asp-controller="Product" asp-action="ShowProduct" asp-route-id="@Model.ID">
+                    <img src="/Images/@Model.ProductImages.FirstOrDefault()?.ImageName"
+                         class="img-fluid blur-up lazyload" alt="">
+                </a>
+
+                <ul class="product-option">
+                    <li data-bs-toggle="tooltip" data-bs-placement="top" title="مشاهده">
+                        <a asp-controller="Product" asp-action="ShowProduct" asp-route-id="@Model.ID">
+                            <i data-feather="eye"></i>
+                        </a>
+                    </li>
+
+                    <li data-bs-toggle="tooltip" data-bs-placement="top" title="مقایسه">
+                        <a href="">
+                            <i data-feather="refresh-cw"></i>
+                        </a>
+                    </li>
+
+                    <li data-bs-toggle="tooltip" data-bs-placement="top" title="نشان">
+                        <a href="#" class="notifi-wishlist">
+                            <i data-feather="heart"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="product-footer">
+            <div class="product-detail">
+                <span class="span-name">@Model.ProductGroup.GroupTitle</span>
+                <a href="#">
+                    <h5 class="name">@Model.Title</h5>
+                </a>
+                <p class="text-content mt-1 mb-2 product-content">
+                    @Model.ShortDescription
+                </p>
+                <h6 class="unit">موجود</h6>
+                <h5 class="price">
+                    <span class="theme-color">@Model.Price.ToString("#,0") تومان</span>
+                </h5>
+            </div>
+        </div>
+    </div>
+</div>

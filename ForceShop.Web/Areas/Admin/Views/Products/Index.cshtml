@@ -1,0 +1,63 @@
+﻿@using Accounting.utility.Convertor
+@model IEnumerable<ForceShop.Domian.Models.Product.Product>
+
+@{
+    ViewData["Title"] = "محصول ها";
+}
+
+<h1>لیست محصولات</h1>
+
+<p>
+    <a asp-action="Create">محصول جدید</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.ProductGroup)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreateDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDelete)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductGroup.GroupTitle)
+            </td>
+            <td>
+                @item.CreateDate.ToShamsiWithTimer()
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDelete)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">ویرایش</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">جزئیات</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">حذف</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

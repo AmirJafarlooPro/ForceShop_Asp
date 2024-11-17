@@ -1,0 +1,36 @@
+﻿@model List<Product>?
+
+@{
+    ViewData["Title"] = "محصولات";
+}
+
+<partial name="_partialBreadcrumb" />
+<br />
+
+
+<!-- Shop Section Start -->
+<section class="section-b-space shop-section">
+    <div class="container-fluid-lg">
+        <div class="row">
+            <div class="col-12">
+                
+                @if (!Model.IsNullOrEmpty())
+                {
+                    <div class="row g-sm-4 g-3 row-cols-xxl-5 row-cols-xl-3 row-cols-lg-2 row-cols-md-3 row-cols-2 product-list-section">
+                        @foreach (var item in Model)
+                        {
+                        
+                            <partial name="_partialProductItem" model="item" />
+                        }
+                    </div>
+                }
+                else
+                {
+                    <h2>محصولی با نام مورد مورد نظر شما یافت نشد !</h2>
+                }
+
+            </div>
+        </div>
+    </div>
+</section>
+

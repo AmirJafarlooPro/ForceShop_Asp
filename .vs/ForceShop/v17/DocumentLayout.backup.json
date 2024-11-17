@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|solutionrelative:forceshop.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04755F-0515-4BA4-9198-BDF8558C11DC}|ForceShop.Application\\ForceShop.Application.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A04755F-0515-4BA4-9198-BDF8558C11DC}|ForceShop.Application\\ForceShop.Application.csproj|solutionrelative:forceshop.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04755F-0515-4BA4-9198-BDF8558C11DC}|ForceShop.Application\\ForceShop.Application.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.application\\services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A04755F-0515-4BA4-9198-BDF8558C11DC}|ForceShop.Application\\ForceShop.Application.csproj|solutionrelative:forceshop.application\\services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5693BA5A-A4D4-420F-B3D1-8EA91890BE78}|ForceShop.Data\\ForceShop.Data.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.data\\implementation\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5693BA5A-A4D4-420F-B3D1-8EA91890BE78}|ForceShop.Data\\ForceShop.Data.csproj|solutionrelative:forceshop.data\\implementation\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAECC6A8-B028-42C6-B4CD-135031D0A0ED}|ForceShop.Domian\\ForceShop.Domian.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.domian\\interfaces\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAECC6A8-B028-42C6-B4CD-135031D0A0ED}|ForceShop.Domian\\ForceShop.Domian.csproj|solutionrelative:forceshop.domian\\interfaces\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.web\\views\\shared\\_layoutfast.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|solutionrelative:forceshop.web\\views\\shared\\_layoutfast.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.web\\views\\product\\showshopcartorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|solutionrelative:forceshop.web\\views\\product\\showshopcartorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.web\\views\\product\\showproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|solutionrelative:forceshop.web\\views\\product\\showproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.web\\components\\shopcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|solutionrelative:forceshop.web\\components\\shopcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04755F-0515-4BA4-9198-BDF8558C11DC}|ForceShop.Application\\ForceShop.Application.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.application\\services\\implementation\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A04755F-0515-4BA4-9198-BDF8558C11DC}|ForceShop.Application\\ForceShop.Application.csproj|solutionrelative:forceshop.application\\services\\implementation\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5693BA5A-A4D4-420F-B3D1-8EA91890BE78}|ForceShop.Data\\ForceShop.Data.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.data\\implementation\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5693BA5A-A4D4-420F-B3D1-8EA91890BE78}|ForceShop.Data\\ForceShop.Data.csproj|solutionrelative:forceshop.data\\implementation\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85CBA3B-7741-4D9D-8DD8-BF5E5B3DA99C}|ForceShop.Web\\ForceShop.Web.csproj|solutionrelative:forceshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAECC6A8-B028-42C6-B4CD-135031D0A0ED}|ForceShop.Domian\\ForceShop.Domian.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.domian\\interfaces\\group\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAECC6A8-B028-42C6-B4CD-135031D0A0ED}|ForceShop.Domian\\ForceShop.Domian.csproj|solutionrelative:forceshop.domian\\interfaces\\group\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04755F-0515-4BA4-9198-BDF8558C11DC}|ForceShop.Application\\ForceShop.Application.csproj|g:\\coding\\programing\\languages\\c#\\projects\\asp\\forceshop2\\forceshop - beta\\forceshop.application\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A04755F-0515-4BA4-9198-BDF8558C11DC}|ForceShop.Application\\ForceShop.Application.csproj|solutionrelative:forceshop.application\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 447,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Domian\\Interfaces\\Product\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ForceShop.Domian\\Interfaces\\Product\\IProductRepository.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Domian\\Interfaces\\Product\\IProductRepository.cs",
+              "RelativeToolTip": "ForceShop.Domian\\Interfaces\\Product\\IProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:46:44.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Data\\implementation\\Product\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ForceShop.Data\\implementation\\Product\\ProductRepository.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Data\\implementation\\Product\\ProductRepository.cs",
+              "RelativeToolTip": "ForceShop.Data\\implementation\\Product\\ProductRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAArwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:15:10.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Application\\Services\\Implementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "ForceShop.Application\\Services\\Implementation\\ProductService.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Application\\Services\\Implementation\\ProductService.cs",
+              "RelativeToolTip": "ForceShop.Application\\Services\\Implementation\\ProductService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAArwH8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:15:07.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ForceShop.Application\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ForceShop.Application\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:14:56.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowProduct.cshtml",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Views\\Product\\ShowProduct.cshtml",
+              "RelativeDocumentMoniker": "ForceShop.Web\\Views\\Product\\ShowProduct.cshtml",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Views\\Product\\ShowProduct.cshtml",
+              "RelativeToolTip": "ForceShop.Web\\Views\\Product\\ShowProduct.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAEwE4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T19:14:35.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowShopCartOrders.cshtml",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Views\\Product\\ShowShopCartOrders.cshtml",
+              "RelativeDocumentMoniker": "ForceShop.Web\\Views\\Product\\ShowShopCartOrders.cshtml",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Views\\Product\\ShowShopCartOrders.cshtml",
+              "RelativeToolTip": "ForceShop.Web\\Views\\Product\\ShowShopCartOrders.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T19:01:06.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutFast.cshtml",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Views\\Shared\\_LayoutFast.cshtml",
+              "RelativeDocumentMoniker": "ForceShop.Web\\Views\\Shared\\_LayoutFast.cshtml",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Views\\Shared\\_LayoutFast.cshtml",
+              "RelativeToolTip": "ForceShop.Web\\Views\\Shared\\_LayoutFast.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T17:29:39.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ForceShop.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ForceShop.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:46:30.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopCartViewComponent.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Components\\ShopCartViewComponent.cs",
+              "RelativeDocumentMoniker": "ForceShop.Web\\Components\\ShopCartViewComponent.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Components\\ShopCartViewComponent.cs",
+              "RelativeToolTip": "ForceShop.Web\\Components\\ShopCartViewComponent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:33:32.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Data\\implementation\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ForceShop.Data\\implementation\\User\\UserRepository.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Data\\implementation\\User\\UserRepository.cs",
+              "RelativeToolTip": "ForceShop.Data\\implementation\\User\\UserRepository.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAnwMUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:46:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ForceShop.Web\\Program.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Web\\Program.cs",
+              "RelativeToolTip": "ForceShop.Web\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAACxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:39:02.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Application\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeDocumentMoniker": "ForceShop.Application\\Services\\Interfaces\\IGroupService.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Application\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeToolTip": "ForceShop.Application\\Services\\Interfaces\\IGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:23:37.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Application\\Services\\Implementation\\GroupService.cs",
+              "RelativeDocumentMoniker": "ForceShop.Application\\Services\\Implementation\\GroupService.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Application\\Services\\Implementation\\GroupService.cs",
+              "RelativeToolTip": "ForceShop.Application\\Services\\Implementation\\GroupService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:52:16.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Domian\\Interfaces\\Group\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "ForceShop.Domian\\Interfaces\\Group\\IGroupRepository.cs",
+              "ToolTip": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop - Beta\\ForceShop.Domian\\Interfaces\\Group\\IGroupRepository.cs",
+              "RelativeToolTip": "ForceShop.Domian\\Interfaces\\Group\\IGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:22:43.022Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 153,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

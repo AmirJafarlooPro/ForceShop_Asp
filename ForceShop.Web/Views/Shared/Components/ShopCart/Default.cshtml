@@ -1,0 +1,83 @@
+﻿@model ForceShop.Domian.Models.Order.Order
+
+
+
+<li class="right-side">
+    <div class="onhover-dropdown header-badge">
+        <button type="button" class="btn p-0 position-relative header-wishlist">
+            <i data-feather="shopping-cart"></i>
+            <span id="CountShopCart" class="position-absolute top-0 start-100 translate-middle badge">
+                @Model.OrderDetails.Where(p => p.Product.IsDelete == false).Sum(p => p.Count)<span class="visually-hidden">سبد خرید</span>
+            </span>
+        </button>
+
+
+        @{
+            var cleanedOrder = Model.OrderDetails.Where(p => p.Product.IsDelete == false);
+        }
+
+
+        @if (!cleanedOrder.IsNullOrEmpty())
+        {
+            <div class="onhover-div">
+                <ul class="cart-list">
+                    @foreach (var item in cleanedOrder)
+                    {
+
+                        <li class="product-box-contain">
+                            <div class="drop-cart">
+
+                                <a asp-controller="Product" asp-action="ShowProduct" asp-route-id="@item.ProductID" class="drop-image">
+                                    <img src="/images/@item.Product.ProductImages.FirstOrDefault()?.ImageName"
+                                         class="blur-up lazyload" alt="">
+                                </a>
+
+                                <div class="drop-contain">
+                                    <a asp-controller="Product" asp-action="ShowProduct" asp-route-id="@item.ProductID">
+                                        <h5>@item.Product.Title</h5>
+                                    </a>
+                                    <h6><span>@item.Count عدد</span>@((@item.Price * item.Count).ToString("#,0")) تومان</h6>
+
+                                    <button onclick="DeleteOrderDetail(@item.ProductID)" class="close-button close_button">
+                                        <i class="fa-solid fa-xmark"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </li>
+
+                    }
+                </ul>
+
+                <div class="price-box">
+                    <h5>مجموع :</h5>
+                    <h4 class="theme-color fw-bold">@Model.OrderDetails.Where(p => p.Product.IsDelete == false).Sum(p => p.Price * p.Count).ToString("#,0") تومان</h4>
+                </div>
+
+                <div class="button-group">
+                    <a asp-controller="Product" asp-action="ShowShopCartOrders" class="btn btn-sm cart-button">مشاهده ی سبد خرید</a>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="onhover-div">
+                <ul class="cart-list">
+                    <h3>محصولی یافت نشد</h3>
+                </ul>
+
+
+                <div class="button-group">
+                    <a asp-controller="Product" asp-action="ShowShopCartOrders" class="btn btn-sm cart-button">مشاهده ی سبد خرید</a>
+                </div>
+            </div>
+        }
+
+    </div>
+</li>
+
+<script>
+    function DeleteOrderDetail(id) {
+        $.get("/RemoveCartAny/" + id);
+    }
+</script>
+

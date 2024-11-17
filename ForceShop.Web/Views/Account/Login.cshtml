@@ -1,0 +1,107 @@
+﻿@model LoginViewModel
+
+@{
+    ViewData["Title"] = "ورود";
+}
+
+<partial name="_partialBreadcrumb" />
+
+<br/>
+
+<form asp-action="Login" asp-controller="Account" method="post" class="log-in-section section-b-space" dir="ltr">
+
+    <div class="container-fluid-lg w-100">
+        <div class="row">
+            <div class="col-xxl-6 col-xl-5 col-lg-6 d-lg-block d-none ms-auto">
+                <div class="image-contain">
+                    <img src="../assets/images/inner-page/log-in.png" class="img-fluid" alt="">
+                </div>
+            </div>
+
+            <div class="col-xxl-4 col-xl-5 col-lg-6 col-sm-8 mx-auto">
+                <div class="log-in-box">
+                    <div class="log-in-title">
+                        <h3>به فورس شاپ خوش آمدید </h3>
+                        <h4>به حساب کاربری خود وارد شوید</h4>
+                    </div>
+
+                    <div class="input-box">
+                        <!-- استفاده از فرم اصلی ASP.NET MVC -->
+                        <div class="row g-4">
+                            <div class="col-12">
+                                <div class="form-floating theme-form-floating">
+                                    <input asp-for="UserEmail" type="email" class="form-control Setfont text-center" id="email" placeholder="Email Address">
+                                    <label asp-for="UserEmail" for="email">آدرس ایمیل</label>
+                                    <span asp-validation-for="UserEmail" class="text-danger error-text"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-12">
+                                <div class="form-floating theme-form-floating">
+                                    <input asp-for="Password" type="password" class="form-control Setfont text-center" id="password" placeholder="Password">
+                                    <label asp-for="Password" for="password">گذرواژه</label>
+                                    <span asp-validation-for="Password" class="text-danger error-text"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-12" dir="rtl">
+                                <div class="forgot-box">
+                                    <div class="form-check ps-0 m-0 remember-box">
+                                        <input asp-for="IsPersistent" class="checkbox_animated check-box" type="checkbox" id="flexCheckDefault">
+                                        <label class="form-check-label" for="flexCheckDefault">مرا به خاطر بسپار</label>
+                                    </div>
+                                    <a asp-action="ForgotPassword" asp-controller="Account" class="forgot-password">گذرواژه را فراموش کردید ؟</a>
+                                </div>
+                            </div>
+
+                            <div class="col-12">
+                                <button class="btn btn-animation w-100 Setfont" type="submit">ورود</button>
+                                <br/>
+                                <b><span asp-validation-for="Error" class="text-danger error-text"></span></b>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="other-log-in">
+                        <h6>یا</h6>
+                    </div>
+
+                    <div class="log-in-button">
+                        <ul>
+                            <li>
+                                <a href="https://www.google.com/" class="btn google-button w-100">
+                                    <img src="../assets/images/inner-page/google.png" class="blur-up lazyloaded" alt=""> ورود با گوگل
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/" class="btn google-button w-100">
+                                    <img src="../assets/images/inner-page/facebook.png" class="blur-up lazyloaded" alt=""> ورود با فیسبوک
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="other-log-in">
+                        <h6></h6>
+                    </div>
+
+                    <div class="sign-up-box">
+                        <h4>حساب کاربری ندارید ؟</h4>
+                        <a asp-action="Registrer" asp-controller="Account">ثبت نام</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xxl-7 col-xl-6 col-lg-6"></div>
+    </div>
+</form>
+
+
+@{
+    ViewData["HideFooter"] = true;
+}
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

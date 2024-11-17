@@ -1,0 +1,65 @@
+﻿@using Accounting.utility.Convertor
+@model IEnumerable<ForceShop.Domian.Models.User.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>لیست کاربران</h1>
+
+<p>
+    <a asp-action="Create">افزودن کاربر جدید</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserEmail)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.IsAdmin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreateDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDelete)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="@((item.IsDelete)?"danger":"")">
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsAdmin)
+                </td>
+                <td>
+                    @item.CreateDate.ToShamsiWithTimer()
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsDelete)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">ویرایش</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">جزئیات</a> |
+                    @if (!item.IsDelete)
+                    {
+                        <a asp-action="Delete" asp-route-id="@item.ID">حذف</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

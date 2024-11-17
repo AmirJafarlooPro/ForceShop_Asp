@@ -1,0 +1,704 @@
+﻿<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Fastkart">
+    <meta name="keywords" content="Fastkart">
+    <meta name="author" content="Fastkart">
+    <link rel="icon" href="../assets/images/favicon/1.png" type="image/x-icon">
+
+    <title>@ViewData["Title"] - فورس شاپ</title>
+
+    <!--Custom-->
+    <link href="~/assets/css/succsesreg.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+
+
+    <!-- Google font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500;600;700;800;900&display=swap"
+          rel="stylesheet">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap">
+
+    <!-- PersianFont css -->
+    <link rel="stylesheet" href="../assets/css/MainFont.css">
+
+
+    <!-- bootstrap css -->
+    <link id="rtl-link" rel="stylesheet" href="../assets/css/vendors/bootstrap.rtl.css">
+
+    <!-- wow css -->
+    <link rel="stylesheet" href="../assets/css/animate.min.css">
+
+    <!-- Iconly css -->
+    <link rel="stylesheet" type="text/css" href="../assets/css/bulk-style.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/vendors/animate.css">
+
+    <!-- Template css -->
+    <link id="color-link" rel="stylesheet" type="text/css" href="../assets/css/style.css">
+</head>
+
+<body class="bg-effect Setfont">
+
+    <!-- Loader Start -->
+    <div class="fullpage-loader">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <!-- Loader End -->
+    <!-- Header Start -->
+    <header class="pb-md-4 pb-0">
+
+        <div class="top-nav top-header sticky-header">
+            <div class="container-fluid-lg">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="navbar-top">
+                            <button class="navbar-toggler d-xl-none d-inline navbar-menu-button" type="button"
+                                    data-bs-toggle="offcanvas" data-bs-target="#primaryMenu">
+                                <span class="navbar-toggler-icon">
+                                    <i class="fa-solid fa-bars"></i>
+                                </span>
+                            </button>
+                            <a asp-controller="Home" asp-action="Index" class="web-logo nav-logo">
+                                <img src="../assets/images/logo/1.png" class="img-fluid blur-up lazyload" alt="">
+                            </a>
+
+                            <div class="middle-box">
+
+                                <form asp-controller="Product" asp-action="index" method="get">
+                                    <div class="search-box">
+                                        <div class="input-group">
+
+                                            <input type="search" name="SearchContent" class="form-control Setfont" placeholder="دنبال چه چیزی میگردی ؟">
+                                            <button class="btn" type="submit" id="button-addon2">
+                                                <i data-feather="search"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+
+                            </div>
+
+                            <div class="rightside-box">
+                                <ul class="right-side-menu">
+                                    <li class="right-side">
+                                        <div class="delivery-login-box">
+                                            <div class="delivery-icon">
+                                                <div class="search-box">
+                                                    <i data-feather="search"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="right-side">
+                                        <a href="contact-us.html" class="delivery-login-box">
+                                            <div class="delivery-icon">
+                                                <i data-feather="phone-call"></i>
+                                            </div>
+                                            <div class="delivery-detail">
+                                                <h6>24/7 پشتیبانی</h6>
+                                                <h5 dir="ltr">(021) 666 11 555</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="right-side">
+                                        <a href="#" class="btn p-0 position-relative header-wishlist">
+                                            <i data-feather="heart"></i>
+                                        </a>
+                                    </li>
+
+                                    @if (User.Identity.IsAuthenticated)
+                                    {
+                                        @await Component.InvokeAsync("ShopCart")
+                                        ;
+                                    }
+
+                                    <li class="right-side onhover-dropdown">
+                                        <div class="delivery-login-box">
+                                            <div class="delivery-icon">
+                                                <i data-feather="user"></i>
+                                            </div>
+                                            <div class="delivery-detail">
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    string Username = User.GetUserName();
+
+                                                    <h6>خوش آمدید ،</h6>
+                                                    <h5>@Username</h5>
+                                                }
+                                                else
+                                                {
+                                                    <h6>ورود  ،</h6>
+                                                    <h5>ثبت نام</h5>
+                                                }
+                                            </div>
+                                        </div>
+
+                                        <div class="onhover-div onhover-div-login">
+                                            <ul class="user-box-name">
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    <li class="product-box-contain">
+                                                        <i></i>
+                                                        <a asp-action="ShowShopCartOrders" asp-controller="Product">مشاهده سبد خرید</a>
+                                                    </li>
+
+                                                    <li class="product-box-contain">
+                                                        <i></i>
+                                                        <a asp-action="ChangePassword" asp-controller="Account">تغیر رمز عبور</a>
+                                                    </li>
+
+                                                    <li class="product-box-contain">
+                                                        <i></i>
+                                                        <a asp-action="Logout" asp-controller="Account">خروج</a>
+                                                    </li>
+                                                }
+                                                else
+                                                {
+                                                    <li class="product-box-contain">
+                                                        <a asp-action="Registrer" asp-controller="Account">ثبت نام</a>
+                                                    </li>
+
+                                                    <li class="product-box-contain">
+                                                        <i></i>
+                                                        <a asp-action="Login" asp-controller="Account">ورود</a>
+                                                    </li>
+
+                                                    <li class="product-box-contain">
+                                                        <a asp-action="ForgotPassword" asp-controller="Account">فراموشی رمز عبور</a>
+                                                    </li>
+                                                }
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid-lg">
+            <div class="row">
+                <div class="col-12">
+                    <div class="header-nav">
+                        <div class="header-nav-middle">
+                            <div class="main-nav navbar navbar-expand-xl navbar-light navbar-sticky">
+                                <div class="offcanvas offcanvas-collapse order-xl-2" id="primaryMenu">
+                                    <div class="offcanvas-header navbar-shadow">
+                                        <h5>Menu</h5>
+                                        <button class="btn-close lead" type="button"
+                                                data-bs-dismiss="offcanvas"></button>
+                                    </div>
+                                    <div class="offcanvas-body">
+                                        <ul class="navbar-nav">
+
+                                            @* Home Nav *@
+
+                                            <!--خانه-->
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" href="javascript:void(0)"
+                                                   data-bs-toggle="dropdown">خانه</a>
+
+                                                <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a asp-action="Index" asp-controller="Home" class="dropdown-item">
+                                                            صفحه ی اصلی
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="Search" asp-controller="Home" class="dropdown-item">جستجو پیشرفته</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            
+                                            <!--پشتیبانی-->
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" href="javascript:void(0)"
+                                                   data-bs-toggle="dropdown">پشتیبانی</a>
+
+                                                <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a asp-action="ContactUs" asp-controller="Home" class="dropdown-item">
+                                                            ارتبابط با ما
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="AboutUs" asp-controller="Home" class="dropdown-item">
+                                                            درباره ی ما
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="FAQ" asp-controller="Home" class="dropdown-item">
+                                                            سوالات متداول
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            
+                                            <!--اطلاعات قانونی یا سیاست‌ها-->
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" href="javascript:void(0)"
+                                                   data-bs-toggle="dropdown">سیاست‌ها</a>
+
+                                                <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a asp-action="Privacy" asp-controller="Home" class="dropdown-item">
+                                                            حریم خصوصی و امنیت
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="Rules" asp-controller="Home" class="dropdown-item">
+                                                            قوانین و مقررات
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+
+                                            <!--خدمات-->
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" href="javascript:void(0)"
+                                                   data-bs-toggle="dropdown">خدمات</a>
+
+                                                <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a asp-action="HelpBuy" asp-controller="Home" class="dropdown-item">
+                                                            راهنمای خرید
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="RefundProduct" asp-controller="Home" class="dropdown-item">
+                                                            شرایط بازگشت کالا
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="Warranty" asp-controller="Home" class="dropdown-item">
+                                                            ضمانت پس از فروش
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            
+                                            <!--گزارشات-->
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" href="javascript:void(0)"
+                                                   data-bs-toggle="dropdown">گزارشات</a>
+
+                                                <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a asp-action="ReportBug" asp-controller="Home" class="dropdown-item">
+                                                            گزارش خرابی
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="suggestions_Criticisms" asp-controller="Home" class="dropdown-item">
+                                                            پیشنهادات و انتقادات
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            
+                                            <!--انجمن ها-->
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" href="javascript:void(0)"
+                                                   data-bs-toggle="dropdown">گزارشات</a>
+
+                                                <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a asp-action="sponsoring" asp-controller="Home" class="dropdown-item">
+                                                            اسپانسرینگ
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="JoinStaff" asp-controller="Home" class="dropdown-item">
+                                                            عضویت مجموعه
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+
+                                            <!--فروشندگی-->
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" href="javascript:void(0)"
+                                                   data-bs-toggle="dropdown">فروشندگی</a>
+
+                                                <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a asp-action="SellerRules" asp-controller="Home" class="dropdown-item">
+                                                            شرایط فروش
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="verifySeller" asp-controller="Home" class="dropdown-item">
+                                                            تایید صلاحیت فروشنده
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Header End -->
+    <!-- mobile fix menu start -->
+    <div class="mobile-menu d-md-none d-block mobile-cart">
+        <ul>
+            <li class="@((ViewContext.RouteData.Values["Controller"].ToString() == "Home" && ViewContext.RouteData.Values["Action"].ToString() == "Index") ? "active" : "")">
+                <a asp-action="Index" asp-controller="Home">
+                    <i class="iconly-Home icli"></i>
+                    <span>خانه</span>
+                </a>
+            </li>
+
+            <li class="@((ViewContext.RouteData.Values["Controller"].ToString() == "Home" && ViewContext.RouteData.Values["Action"].ToString() == "ContactUs") ? "active" : "")">
+                <a asp-action="ContactUs" asp-controller="Home" class="notifi-wishlist">
+                    <i class="iconly-Heart icli"></i>
+                    <span>ارتباط با ما</span>
+                </a>
+            </li>
+
+
+            <li class="@((ViewContext.RouteData.Values["Controller"].ToString() == "Product" && ViewContext.RouteData.Values["Action"].ToString() == "ShowShopCartOrders") ? "active" : "")">
+                <a asp-controller="Product" asp-action="ShowShopCartOrders">
+                    <i class="iconly-Bag-2 icli fly-cate"></i>
+                    <span>سبد خرید</span>
+                </a>
+            </li>
+
+        </ul>
+    </div>
+    <!-- mobile fix menu end -->
+
+    <div class="text-center">
+        @RenderBody()
+    </div>
+
+
+    <!-- Footer Section Start -->
+    @if (ViewData["HideFooter"] == null || !(bool)ViewData["HideFooter"])
+    {
+        <!-- Footer Section Start -->
+        <footer class="section-t-space">
+            <div class="container-fluid-lg">
+                <div class="service-section">
+                    <div class="row g-3">
+                        <div class="col-12">
+                            <div class="service-contain">
+                                <div class="service-box">
+                                    <div class="service-image">
+                                        <img src="../assets/svg/product.svg" class="blur-up lazyload" alt="">
+                                    </div>
+
+                                    <div class="service-detail">
+                                        <h5>همه محصولات بروز</h5>
+                                    </div>
+                                </div>
+
+                                <div class="service-box">
+                                    <div class="service-image">
+                                        <img src="../assets/svg/delivery.svg" class="blur-up lazyload" alt="">
+                                    </div>
+
+                                    <div class="service-detail">
+                                        <h5>ارسال رایگان برای سفارش‌های بالای ۵۰ دلار</h5>
+                                    </div>
+                                </div>
+
+                                <div class="service-box">
+                                    <div class="service-image">
+                                        <img src="../assets/svg/discount.svg" class="blur-up lazyload" alt="">
+                                    </div>
+
+                                    <div class="service-detail">
+                                        <h5>تخفیف‌های ویژه روزانه</h5>
+                                    </div>
+                                </div>
+
+                                <div class="service-box">
+                                    <div class="service-image">
+                                        <img src="../assets/svg/market.svg" class="blur-up lazyload" alt="">
+                                    </div>
+
+                                    <div class="service-detail">
+                                        <h5>بهترین قیمت در بازار</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="main-footer section-b-space section-t-space">
+                    <div class="row g-md-4 g-3">
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="footer-logo">
+                                <div class="theme-logo">
+                                    <a asp-controller="Home" asp-action="Index">
+                                        <img src="../assets/images/logo/1.png" class="blur-up lazyload" alt="">
+                                    </a>
+                                </div>
+
+                                <div class="footer-logo-contain">
+                                    <p>
+                                        فروشگاه ما جایی است که بهترین محصولات را با کیفیتی بی‌نظیر و خدماتی بی‌رقیب ارائه می‌دهیم. هدف ما، ایجاد تجربه‌ای متفاوت برای مشتریان عزیز است؛ جایی که هر سفارش با دقت و سرعت بالا به دست شما می‌رسد. اگر به دنبال خریدی آسان، سریع و مطمئن هستید، فروشگاه ما انتخاب اول شما خواهد بود. 🌟
+                                    </p>
+
+                                    <ul class="address">
+                                        <li>
+                                            <i data-feather="home"></i>
+                                            <a href="javascript:void(0)">۱۴۱۸ درایو ریورود، کالیفرنیا ۹۶۰۵۲، ایالات متحده</a>
+                                        </li>
+                                        <li>
+                                            <i data-feather="mail"></i>
+                                            <a href="javascript:void(0)">support@fastkart.com</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        @await Component.InvokeAsync("ProductGroupsFooter")
+
+                        <div class="col-xl col-lg-2 col-sm-3">
+                            <div class="footer-title">
+                                <h4>لینک‌های مفید</h4>
+                            </div>
+
+                            <div class="footer-contain">
+                                <ul>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="Index" class="text-content">خانه</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="ContactUs" class="text-content">ارتباط با ما</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="AboutUs" class="text-content">درباره ما</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="Search" class="text-content">جستجوی پیشرفته</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="Rules" class="text-content">قوانین و مقررات</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-2 col-sm-3">
+                            <div class="footer-title">
+                                <h4>مرکز راهنما</h4>
+                            </div>
+
+                            <div class="footer-contain">
+                                <ul>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="HelpBuy" class="text-content">راهنمای خرید</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="FAQ" class="text-content">سوالات متداول</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="suggestions_Criticisms" class="text-content">انتقادات و پیشنهادات</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="RefundProduct" class="text-content">بازگشت کالا</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="JoinStaff" class="text-content">عضویت</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="sponsoring" class="text-content">اسپانسرینگ</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <div class="footer-title">
+                                <h4>تماس با ما</h4>
+                            </div>
+
+                            <div class="footer-contact">
+                                <ul>
+                                    <li>
+                                        <div class="footer-number">
+                                            <i data-feather="phone"></i>
+                                            <div class="contact-number">
+                                                <h6 class="text-content">خط تماس ۲۴/۷ :</h6>
+                                                <h5 dir="ltr">+91 888 104 2340</h5>
+                                            </div>
+                                        </div>
+                                    </li>
+
+                                    <li>
+                                        <div class="footer-number">
+                                            <i data-feather="mail"></i>
+                                            <div class="contact-number">
+                                                <h6 class="text-content">آدرس ایمیل :</h6>
+                                                <h5>ForceShop@hotmail.com</h5>
+                                            </div>
+                                        </div>
+                                    </li>
+
+                                    <li class="social-app mb-0">
+                                        <h5 class="mb-2 text-content">دانلود اپلیکیشن :</h5>
+                                        <ul>
+                                            <li class="mb-0">
+                                                <a href="https://play.google.com/store/apps" target="_blank">
+                                                    <img src="../assets/images/playstore.svg" class="blur-up lazyload"
+                                                         alt="">
+                                                </a>
+                                            </li>
+                                            <li class="mb-0">
+                                                <a href="https://www.apple.com/in/app-store/" target="_blank">
+                                                    <img src="../assets/images/appstore.svg" class="blur-up lazyload"
+                                                         alt="">
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sub-footer section-small-space">
+                    <div class="reserve">
+                        <h6 class="text-content">©2024 فورس شاپ تمامی حقوق محفوظ است</h6>
+                    </div>
+
+                    <div class="payment">
+                        <img src="../assets/images/payment/1.png" class="blur-up lazyload" alt="">
+                    </div>
+
+                    <div class="social-link">
+                        <h6 class="text-content">در ارتباط باشید :</h6>
+                        <ul>
+                            <li>
+                                <a href="https://www.facebook.com/forceshop" target="_blank">
+                                    <i class="fa-brands fa-facebook-f"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/forceshop" target="_blank">
+                                    <i class="fa-brands fa-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/forceshop" target="_blank">
+                                    <i class="fa-brands fa-instagram"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://in.pinterest.com/forceshop" target="_blank">
+                                    <i class="fa-brands fa-pinterest-p"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Footer Section End -->
+    }
+
+    <!-- Footer Section End -->
+    <!-- Cookie Bar Box Start -->
+    <!-- Tap to top and theme setting button start -->
+    <div class="theme-option">
+        <div class="back-to-top">
+            <a asp-action="Index" asp-controller="Home" id="back-to-top">
+                <i class="fas fa-chevron-up"></i>
+            </a>
+        </div>
+    </div>
+
+    <!-- Tap to top and theme setting button end -->
+    <!-- Bg overlay Start -->
+    <div class="bg-overlay"></div>
+    <!-- Bg overlay End -->
+    <!-- latest jquery-->
+    <script src="../assets/js/jquery-3.6.0.min.js"></script>
+
+    <!-- jquery ui-->
+    <script src="../assets/js/jquery-ui.min.js"></script>
+
+    <!-- Bootstrap js-->
+    <script src="../assets/js/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="../assets/js/bootstrap/bootstrap-notify.min.js"></script>
+    <script src="../assets/js/bootstrap/popper.min.js"></script>
+
+    <!-- feather icon js-->
+    <script src="../assets/js/feather/feather.min.js"></script>
+    <script src="../assets/js/feather/feather-icon.js"></script>
+
+    <!-- Lazyload Js -->
+    <script src="../assets/js/lazysizes.min.js"></script>
+
+    <!-- Slick js-->
+    <script src="../assets/js/slick/slick.js"></script>
+    <script src="../assets/js/slick/slick-animation.min.js"></script>
+    <script src="../assets/js/slick/custom_slick.js"></script>
+
+    <!-- Auto Height Js -->
+    <script src="../assets/js/auto-height.js"></script>
+
+    <!-- Timer Js -->
+    <script src="../assets/js/timer1.js"></script>
+
+    <!-- Fly Cart Js -->
+    <script src="../assets/js/fly-cart.js"></script>
+
+    <!-- Quantity js -->
+    <script src="../assets/js/quantity-2.js"></script>
+
+    <!-- WOW js -->
+    <script src="../assets/js/wow.min.js"></script>
+    <script src="../assets/js/custom-wow.js"></script>
+
+    <!-- script js -->
+    <script src="../assets/js/script.js"></script>
+
+    <!-- theme setting js -->
+    <script src="../assets/js/theme-setting.js"></script>
+
+    <!-- بارگذاری فایل‌های لازم برای ولیدیشن -->
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.6.0.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js"></script>
+
+    <script>
+        $(function () {
+            $.get("/Product/CountShopCart", function (res) {
+                $("#countShopCart").html(res);
+            });
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\bin\Debug\net8.0\ForceShop.Application.deps.json
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\bin\Debug\net8.0\ForceShop.Application.dll
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\bin\Debug\net8.0\ForceShop.Application.pdb
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\bin\Debug\net8.0\ForceShop.Data.dll
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\bin\Debug\net8.0\ForceShop.Domian.dll
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\bin\Debug\net8.0\ForceShop.Data.pdb
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\bin\Debug\net8.0\ForceShop.Domian.pdb
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\obj\Debug\net8.0\ForceShop.Application.csproj.AssemblyReference.cache
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\obj\Debug\net8.0\ForceShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\obj\Debug\net8.0\ForceShop.Application.AssemblyInfoInputs.cache
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\obj\Debug\net8.0\ForceShop.Application.AssemblyInfo.cs
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\obj\Debug\net8.0\ForceShop.Application.csproj.CoreCompileInputs.cache
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\obj\Debug\net8.0\ForceSho.24F9B94E.Up2Date
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\obj\Debug\net8.0\ForceShop.Application.dll
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\obj\Debug\net8.0\refint\ForceShop.Application.dll
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\obj\Debug\net8.0\ForceShop.Application.pdb
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Application\obj\Debug\net8.0\ref\ForceShop.Application.dll

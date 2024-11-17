@@ -1,0 +1,165 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = $"نمایش محصول - {Model.Title}";
+}
+
+<style>
+    img {
+        max-width: 100%;
+    }
+</style>
+
+<partial name="_partialBreadcrumb" />
+<br />
+
+<section class="product-section">
+    <div class="container-fluid-lg">
+        <div class="row">
+            <div class="col-xxl-9 col-xl-8 col-lg-7 wow fadeInUp">
+                <div class="row g-4">
+                    <div class="col-xl-6 wow fadeInUp">
+                        <div class="product-left-box">
+                            <div class="row g-2">
+                                <div class="col-12 position-relative">
+                                    <div class="product-label-group">
+                                        <div class="product-label-tag warning-label-tag">
+                                            <span>ویژه</span>
+                                        </div>
+                                    </div>
+
+                                    <!--Image slider-->
+                                    <div class="product-main-1 no-arrow">
+
+                                        @foreach (var item in Model.ProductImages)
+                                        {
+                                            <div>
+                                                <div class="slider-image">
+                                                    <img src="/Images/@item.ImageName"
+                                                         data-zoom-image="/Images/@item.ImageName" id="img-@item.ID"
+                                                         class="img-fluid image_zoom_cls-0 blur-up lazyload" alt="">
+                                                </div>
+                                            </div>
+                                        }
+
+                                    </div>
+                                </div>
+
+                                <div class="col-12">
+                                    <div class="bottom-slider-image left-slider no-arrow slick-top">
+                                        @foreach (var item in Model.ProductImages)
+                                        {
+                                            <div>
+                                                <div class="sidebar-image">
+                                                    <img src="/Images/@item.ImageName" id="img-@item.ID"
+                                                         class="img-fluid blur-up lazyload" alt="">
+                                                </div>
+                                            </div>
+                                        }
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="right-box-contain">
+                            <h2 class="name">@Model.Title</h2>
+                            <div class="price-rating">
+                                <h3 class="theme-color price">
+                                    @Model.Price.ToString("#,0") تومان
+                                </h3>
+                            </div>
+
+                            <div class="product-contain">
+                                <p>
+                                    @Model.ShortDescription
+                                </p>
+                            </div>
+
+                            <div class="note-box product-package">
+                                <div class="cart_qty qty-box product-qty">
+                                    <div class="input-group">
+                                    </div>
+                                </div>
+
+                                <button onclick="location.href = '/Product/AddToCart/@Model.ID';"
+                                        class="btn btn-md bg-dark cart-button text-white w-100 Setfont">
+                                    افزودن به سبدخرید
+                                </button>
+
+                            </div>
+
+                            <div class="buy-box">
+                                <a href="#">
+                                    <i data-feather="heart"></i>
+                                    <span>نشان</span>
+                                </a>
+
+                                <a href="#">
+                                    <i data-feather="shuffle"></i>
+                                    <span>مقایسه با</span>
+                                </a>
+                            </div>
+
+                            <div class="pickup-box">
+                                <div class="product-title">
+                                    <h4>@Model.ProductGroup.GroupTitle</h4>
+                                </div>
+
+                                <div class="product-info">
+                                    <ul class="product-info-list product-info-list-2">
+                                        <li>
+                                            تگ ها :
+                                            @foreach (string t in Model.Tags.Split(',', StringSplitOptions.RemoveEmptyEntries))
+                                            {
+                                                <a class="link-success" asp-action="index" asp-controller="Product" asp-route-SearchContent="@t">@t , </a>
+                                            }
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12">
+                        <div class="product-section-box">
+
+                            <ul class="nav nav-tabs custom-nav" id="myTab" role="tablist">
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link active Setfont" id="description-tab" data-bs-toggle="tab"
+                                            data-bs-target="#description" type="button" role="tab">
+                                        توضیحات
+                                    </button>
+                                </li>
+                            </ul>
+
+                            <div class="tab-content custom-tab" id="myTabContent">
+                                <div class="tab-pane fade show active" id="description" role="tabpanel">
+                                    <div class="product-description">
+                                        <div class="nav-desh">
+                                            <p>
+                                                @Html.Raw(Model.Description)
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- پارشیال SweetAlert -->
+<partial name="_partialAddToCartAlert" />
+
+<br />
+<br />
+<hr />
+<br />

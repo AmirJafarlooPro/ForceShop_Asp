@@ -1,0 +1,123 @@
+﻿@model IEnumerable<Product>
+
+@{
+
+    ViewData["Title"] = $"محصولات گروه";
+}
+
+<partial name="_partialBreadcrumb" />
+<br />
+<!-- Shop Section Start -->
+@if (!Model.IsNullOrEmpty())
+{
+    <section class="section-b-space shop-section">
+        <div class="container-fluid-lg">
+            <div class="row">
+                <div class="col-12">
+                    <div class="show-button">
+                        <div class="top-filter-menu-2">
+                            <div class="sidebar-filter-menu" data-bs-toggle="collapse"
+                                 data-bs-target="#collapseExample">
+                                <a href="javascript:void(0)"><i class="fa-solid fa-filter"></i>منوی فیلتر</a>
+                            </div>
+
+                            <div class="ms-auto d-flex align-items-center">
+                                <div class="category-dropdown me-md-3">
+                                    <h5 class="text-content">مرتب بر اساس</h5>
+                                    <div class="dropdown">
+                                        <button class="dropdown-toggle" type="button" id="dropdownMenuButton1"
+                                                data-bs-toggle="dropdown">
+                                            <span>Most Popular</span> <i class="fa-solid fa-angle-down"></i>
+                                        </button>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a class="dropdown-item" id="pop"
+                                                   href="javascript:void(0)">محبوب ترین</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item" id="low" href="javascript:void(0)">
+                                                    کم - زیاد
+                                                    قیمت
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item" id="high" href="javascript:void(0)">
+                                                    زیاد - کم
+                                                    قیمت
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="grid-option grid-option-2">
+                                    <ul>
+                                        <li class="three-grid">
+                                            <a href="javascript:void(0)">
+                                                <img src="../assets/svg/grid-3.svg" class="blur-up lazyload" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="grid-btn five-grid d-xxl-inline-block d-none">
+                                            <a href="javascript:void(0)">
+                                                <img src="../assets/svg/grid-4.svg"
+                                                     class="blur-up lazyload d-lg-inline-block d-none" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="five-grid d-xxl-inline-block d-none active">
+                                            <a href="javascript:void(0)">
+                                                <img src="../assets/svg/grid-5.svg"
+                                                     class="blur-up lazyload d-lg-inline-block d-none" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="list-btn">
+                                            <a href="javascript:void(0)">
+                                                <img src="../assets/svg/list.svg" class="blur-up lazyload" alt="">
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="top-filter-category" id="collapseExample">
+                        <div class="row g-sm-4 g-3">
+                            <div class="col-xl-3 col-md-6">
+                                <div class="category-title">
+                                    <h3>قیمت</h3>
+                                </div>
+                                <div class="range-slider">
+                                    <input type="text" class="js-range-slider" value="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row g-sm-4 g-3 row-cols-xxl-5 row-cols-xl-3 row-cols-lg-2 row-cols-md-3 row-cols-2 product-list-section">
+                        @foreach (var item in Model)
+                        {
+                            <partial name="_partialProductItem" model="item" />
+                        }
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+}
+else
+{
+    <br/>
+    <br/>
+    <br/>
+    <h2>محصولی یافت نشد</h2>
+    <br/>
+    <br/>
+    <br/>
+}
+
+
+                
+
+
+<!-- Shop Section End -->

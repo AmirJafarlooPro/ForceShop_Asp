@@ -1,0 +1,14 @@
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\bin\Debug\net8.0\ForceShop.Domian.deps.json
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\bin\Debug\net8.0\ForceShop.Domian.runtimeconfig.json
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\bin\Debug\net8.0\ForceShop.Domian.dll
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\bin\Debug\net8.0\ForceShop.Domian.pdb
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\obj\Debug\net8.0\ForceShop.Domian.csproj.AssemblyReference.cache
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\obj\Debug\net8.0\ForceShop.Domian.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\obj\Debug\net8.0\ForceShop.Domian.AssemblyInfoInputs.cache
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\obj\Debug\net8.0\ForceShop.Domian.AssemblyInfo.cs
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\obj\Debug\net8.0\ForceShop.Domian.csproj.CoreCompileInputs.cache
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\obj\Debug\net8.0\ForceShop.Domian.dll
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\obj\Debug\net8.0\refint\ForceShop.Domian.dll
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\obj\Debug\net8.0\ForceShop.Domian.pdb
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\obj\Debug\net8.0\ForceShop.Domian.genruntimeconfig.cache
+G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop\ForceShop.Domian\obj\Debug\net8.0\ref\ForceShop.Domian.dll

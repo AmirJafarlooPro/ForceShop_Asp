@@ -1,0 +1,2833 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ForceShop.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ForceShop.Web.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\css\\MainFont.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\MainFont.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\css\\plugins\\dataTables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\plugins\\dataTables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\css\\plugins\\morris\\morris-0.4.3.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\plugins\\morris\\morris-0.4.3.min.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\css\\plugins\\social-buttons\\social-buttons.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\plugins\\social-buttons\\social-buttons.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\css\\plugins\\timeline\\timeline.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\plugins\\timeline\\timeline.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\css\\sb-admin.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\sb-admin.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\fonts\\IRANSANSWEB(FANUM)_BOLD.TTF",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\IRANSANSWEB(FANUM)_BOLD.TTF"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\fonts\\IranSans.TTF",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\IranSans.TTF"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\demo\\dashboard-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\dashboard-demo.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\demo\\flot-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\flot-demo.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\demo\\morris-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\morris-demo.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\plugins\\dataTables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\dataTables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\plugins\\dataTables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\dataTables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\plugins\\flot\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\flot\\excanvas.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\plugins\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\plugins\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\plugins\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\metisMenu\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\plugins\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\morris\\morris.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\plugins\\morris\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\morris\\raphael-2.1.0.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Admin\\js\\sb-admin.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\sb-admin.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\0002e4c0-d9ec-4cfd-99aa-e96eec7d45af.png",
+      "PackagePath": "staticwebassets\\Images\\0002e4c0-d9ec-4cfd-99aa-e96eec7d45af.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\0618b2b4-e0bf-4655-a974-6b73b26886ed.png",
+      "PackagePath": "staticwebassets\\Images\\0618b2b4-e0bf-4655-a974-6b73b26886ed.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\06470e8c-2cec-4f9b-b969-6814b75e48c1.png",
+      "PackagePath": "staticwebassets\\Images\\06470e8c-2cec-4f9b-b969-6814b75e48c1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\0a5d3d4e-84a0-4933-ae14-07d63de48bff.png",
+      "PackagePath": "staticwebassets\\Images\\0a5d3d4e-84a0-4933-ae14-07d63de48bff.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\0cecb57f-a1d5-486e-8814-b1f8600994ee.png",
+      "PackagePath": "staticwebassets\\Images\\0cecb57f-a1d5-486e-8814-b1f8600994ee.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\102354be-0fdd-4837-a030-84ca0941cde0.png",
+      "PackagePath": "staticwebassets\\Images\\102354be-0fdd-4837-a030-84ca0941cde0.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\23d2eeeb-9bf3-42a2-af7e-ca0a34c15eae.png",
+      "PackagePath": "staticwebassets\\Images\\23d2eeeb-9bf3-42a2-af7e-ca0a34c15eae.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\384b503e-553d-44e6-ba00-ae8b5912cacc.png",
+      "PackagePath": "staticwebassets\\Images\\384b503e-553d-44e6-ba00-ae8b5912cacc.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\38b13ea9-f65a-47e6-90a4-cdcdd36356d1.png",
+      "PackagePath": "staticwebassets\\Images\\38b13ea9-f65a-47e6-90a4-cdcdd36356d1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\39521010-97f7-4e82-8586-809adbeed920.png",
+      "PackagePath": "staticwebassets\\Images\\39521010-97f7-4e82-8586-809adbeed920.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\404aa98b-7b3d-493a-bd54-9f43c1bcb326.png",
+      "PackagePath": "staticwebassets\\Images\\404aa98b-7b3d-493a-bd54-9f43c1bcb326.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\503a1c59-e9b4-48c4-8ead-3841cc1c3a51.png",
+      "PackagePath": "staticwebassets\\Images\\503a1c59-e9b4-48c4-8ead-3841cc1c3a51.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\57141c18-d8a0-4dc6-a211-df03f37a67fa.png",
+      "PackagePath": "staticwebassets\\Images\\57141c18-d8a0-4dc6-a211-df03f37a67fa.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\85ca5a62-0304-4e92-bb8a-b340f8c8c2ce.png",
+      "PackagePath": "staticwebassets\\Images\\85ca5a62-0304-4e92-bb8a-b340f8c8c2ce.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\b273b0ac-c433-400f-9beb-81111ff1397d.png",
+      "PackagePath": "staticwebassets\\Images\\b273b0ac-c433-400f-9beb-81111ff1397d.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\ceab4391-37f8-4e45-8c5b-11447fc76070.png",
+      "PackagePath": "staticwebassets\\Images\\ceab4391-37f8-4e45-8c5b-11447fc76070.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\e071e58f-d231-4c4d-ae06-3b74a56be502.png",
+      "PackagePath": "staticwebassets\\Images\\e071e58f-d231-4c4d-ae06-3b74a56be502.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\ea933bd6-305b-4cc3-8ef6-0a1e462e9ea8.png",
+      "PackagePath": "staticwebassets\\Images\\ea933bd6-305b-4cc3-8ef6-0a1e462e9ea8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\f2e27be5-86f7-4d69-9dc0-ae7e575bcd8b.png",
+      "PackagePath": "staticwebassets\\Images\\f2e27be5-86f7-4d69-9dc0-ae7e575bcd8b.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\f456fa35-3227-4b40-8586-a4f61c76f409.png",
+      "PackagePath": "staticwebassets\\Images\\f456fa35-3227-4b40-8586-a4f61c76f409.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\Images\\f841c411-a6d4-41bd-b770-89987f71a75c.png",
+      "PackagePath": "staticwebassets\\Images\\f841c411-a6d4-41bd-b770-89987f71a75c.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\MainFont.css",
+      "PackagePath": "staticwebassets\\assets\\css\\MainFont.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\bulk-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bulk-style.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\dark.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dark.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\dark.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\dark.scss"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\font-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-style.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\vendors\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\animate.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\vendors\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\vendors\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\vendors\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\css\\vendors\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\IRANSANSWEB(FANUM)_BOLD.TTF",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IRANSANSWEB(FANUM)_BOLD.TTF"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\Iconly-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Iconly-Bold.eot"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\Iconly-Bold.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Iconly-Bold.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\Iconly-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Iconly-Bold.ttf"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\Iconly-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Iconly-Bold.woff"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\Iconly-light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Iconly-light.eot"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\Iconly-light.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Iconly-light.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\Iconly-light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Iconly-light.ttf"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\Iconly-light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Iconly-light.woff"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\IranSans.TTF",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranSans.TTF"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\appstore.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\appstore.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\bg-body.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-body.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\banner\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\banner\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\banner\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\category\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\category\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\category\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\category\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\category\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\category\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\category\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\category\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\category\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\category\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\category\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\category\\6.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\category\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\category\\7.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\category\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\category\\8.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\category\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\category\\9.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\10.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\11.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\12.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\13.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\14.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\15.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\31.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\32.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\32.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\33.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\33.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\34.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\34.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\35.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\35.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\36.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\36.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\37.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\37.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\38.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\38.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\39.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\39.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\40.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\40.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\41.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\41.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\43.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\43.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\44.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\44.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\45.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\45.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\6.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\7.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\8.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\book\\product\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\book\\product\\9.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\brand\\angular.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\angular.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\brand\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\bootstrap.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\brand\\django.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\django.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\brand\\dot-net.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\dot-net.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\brand\\laravel.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\laravel.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\brand\\reactJs.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\reactJs.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\brand\\shopify.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\shopify.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\brand\\ux-design.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\ux-design.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\brand\\vueJs.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\vueJs.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\brand\\wordpress.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\wordpress.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\10.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\11.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\6.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\7.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\8.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\banner\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\banner\\9.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\bg.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\pro\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\pro\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\pro\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\pro\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\pro\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\pro\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\pro\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\pro\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\pro\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\pro\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\pro\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\pro\\6.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\10.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\11.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cake\\product\\9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cake\\product\\9.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\cookie-bar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cookie-bar.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\country\\germany.png",
+      "PackagePath": "staticwebassets\\assets\\images\\country\\germany.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\country\\turkish.png",
+      "PackagePath": "staticwebassets\\assets\\images\\country\\turkish.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\country\\united-kingdom.png",
+      "PackagePath": "staticwebassets\\assets\\images\\country\\united-kingdom.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\country\\united-states.png",
+      "PackagePath": "staticwebassets\\assets\\images\\country\\united-states.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\digital\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\digital\\blog\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\digital\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\digital\\blog\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\digital\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\digital\\blog\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\digital\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\digital\\blog\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\digital\\product\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\digital\\product\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\digital\\theme\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\digital\\theme\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\digital\\theme\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\digital\\theme\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\digital\\theme\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\digital\\theme\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\digital\\theme\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\digital\\theme\\7.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\digital\\theme\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\digital\\theme\\8.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\banner\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\banner\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\banner\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\banner\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\home-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\home-banner\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\10.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\11.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\12.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\23.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\24.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\25.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\26.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\27.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\27.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\28.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\28.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\29.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\29.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\6.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\7.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\8.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fashion\\product\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\fashion\\product\\9.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\favicon\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\favicon\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\favicon\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\favicon\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\favicon\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\favicon\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\favicon\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fruit\\product\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fruit\\product\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fruit\\product\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fruit\\product\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fruit\\product\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fruit\\product\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fruit\\product\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fruit\\product\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\fruit\\product\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fruit\\product\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\10.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\11.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\12.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\13.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\14.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\9.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\arrow.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\banner\\1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\banner\\1-1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\banner\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\banner\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\banner\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\banner\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\banner\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\banner\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\banner\\6.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\icon\\bakeware.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\icon\\bakeware.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\icon\\blankets.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\icon\\blankets.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\icon\\cushions.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\icon\\cushions.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\icon\\decorations.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\icon\\decorations.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\icon\\gift.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\icon\\gift.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\icon\\pillows.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\icon\\pillows.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\icon\\room-fragrance.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\icon\\room-fragrance.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\icon\\shower.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\icon\\shower.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\icon\\sleepware.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\icon\\sleepware.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\furniture\\icon\\tableware.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\furniture\\icon\\tableware.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\bank\\name\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\bank\\name\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\bank\\name\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\bank\\name\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\bank\\name\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\bank\\name\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\bank\\price\\1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\bank\\price\\1.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\bank\\price\\2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\bank\\price\\2.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\bank\\price\\3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\bank\\price\\3.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\11.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\12.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\6.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\7.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\banner\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\banner\\9.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\blog\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\blog\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\blog\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\category\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\category\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\category\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\category\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\category\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\category\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\category\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\category\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\category\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\category\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\category\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\category\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\category\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\category\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\category\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\category\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\circle.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\circle.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\deal\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\deal\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\deal\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\deal\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\deal\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\deal\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\deal\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\deal\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\deal\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\deal\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\deal\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\deal\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\deal\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\deal\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\deal\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\deal\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\deal\\9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\deal\\9.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\deal\\big.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\deal\\big.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\breakfast\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\breakfast\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\breakfast\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\breakfast\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\breakfast\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\breakfast\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\breakfast\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\breakfast\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\breakfast\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\breakfast\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\breakfast\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\breakfast\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\breakfast\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\breakfast\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\breakfast\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\breakfast\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\chemist\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\chemist\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\chemist\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\chemist\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\chemist\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\chemist\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\chemist\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\chemist\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\chemist\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\chemist\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\chemist\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\chemist\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\chemist\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\chemist\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\chemist\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\chemist\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\drink\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\drink\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\drink\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\drink\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\drink\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\drink\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\drink\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\drink\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\drink\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\drink\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\drink\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\drink\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\drink\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\drink\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\drink\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\drink\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\fruits-vegetables\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\fruits-vegetables\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\fruits-vegetables\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\fruits-vegetables\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\fruits-vegetables\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\fruits-vegetables\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\fruits-vegetables\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\fruits-vegetables\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\fruits-vegetables\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\fruits-vegetables\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\fruits-vegetables\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\fruits-vegetables\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\fruits-vegetables\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\fruits-vegetables\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\fruits-vegetables\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\fruits-vegetables\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\grocery\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\grocery\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\grocery\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\grocery\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\grocery\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\grocery\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\grocery\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\grocery\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\grocery\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\grocery\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\grocery\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\grocery\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\grocery\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\grocery\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\grocery\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\grocery\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\kichen\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\kichen\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\kichen\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\kichen\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\kichen\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\kichen\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\kichen\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\kichen\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\kichen\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\kichen\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\kichen\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\kichen\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\kichen\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\kichen\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\kichen\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\kichen\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\personal-care\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\personal-care\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\personal-care\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\personal-care\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\personal-care\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\personal-care\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\personal-care\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\personal-care\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\personal-care\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\personal-care\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\personal-care\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\personal-care\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\personal-care\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\personal-care\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\grocery\\product\\personal-care\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\grocery\\product\\personal-care\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\home-bg.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\icon\\hot-sale.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\hot-sale.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\icon\\mobile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\mobile.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\icon\\music.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\music.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\icon\\paymant\\american.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\paymant\\american.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\icon\\paymant\\discover.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\paymant\\discover.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\icon\\paymant\\giro-pay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\paymant\\giro-pay.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\icon\\paymant\\master-card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\paymant\\master-card.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\icon\\paymant\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\paymant\\visa.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\icon\\support.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\support.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\404.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\about-us\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\about-us\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\blog\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\blog\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\blog\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\blog\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\blog\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\brand-name.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\brand-name.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\coming-soon.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\coming-soon.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\compare\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\compare\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\compare\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\compare\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\compare\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\compare\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\compare\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\compare\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\contact-us.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\contact-us.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\cover-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\cover-img.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\dashboard-profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\dashboard-profile.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\facebook.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\faq\\contact.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\faq\\contact.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\faq\\help.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\faq\\help.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\faq\\price.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\faq\\price.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\faq\\start.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\faq\\start.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\forgot.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\forgot.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\google.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\google.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\log-in-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\log-in-bg.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\log-in.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\log-in.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\offer.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\offer.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\otp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\otp.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\sign-up.png",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\sign-up.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\user\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\user\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\user\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\user\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\user\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\user\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\inner-page\\user\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\inner-page\\user\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\logo\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\logo\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\logo\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\logo\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\logo\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\logo\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\mega-menu.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\payment-icon\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment-icon\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\payment-icon\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment-icon\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\payment-icon\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\payment-icon\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\playstore.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\playstore.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\category\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\category\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\category\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\category\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\category\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\category\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\category\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\category\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\category\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\category\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\category\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\category\\6.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\payment\\1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\payment\\1.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\payment\\2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\payment\\2.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\payment\\3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\payment\\3.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\payment\\4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\payment\\4.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\payment\\5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\payment\\5.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\product\\vendor.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\vendor.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\review\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\review\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\review\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\review\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\review\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\review\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\review\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\review\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\review\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\review\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\secure_payments.png",
+      "PackagePath": "staticwebassets\\assets\\images\\secure_payments.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\shop\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\sizechart.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sizechart.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\svg\\order.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\order.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\svg\\pending.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\pending.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\svg\\wishlist.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\wishlist.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\theme-icon\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\theme-icon\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\theme-icon\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\theme-icon\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\theme-icon\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\theme-icon\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\banner\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\banner\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\banner\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\blog\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\blog\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\blog\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\blog\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\blog\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\pro\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\pro\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\pro\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\pro\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\pro\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\pro\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\pro\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\pro\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\10.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\11.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\12.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\13.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\14.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\15.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\16.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\17.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\18.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\19.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\19.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\20.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\20.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\21.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\21.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\22.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\22.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\23.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\23.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\24.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\24.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\product\\9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\product\\9.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\10.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\11.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\12.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\13.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\14.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\15.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\16.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\6.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\7.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\8.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-2\\top-selling\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-2\\top-selling\\9.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\banner\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\banner\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\banner\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\banner\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\banner\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\banner\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\blog\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\blog\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\blog\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\10.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\11.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\12.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\13.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\14.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\15.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\16.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\17.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\18.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\cate1\\9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\cate1\\9.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\category\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\category\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\category\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\category\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\category\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\category\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\category\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\category\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\category\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\category\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\category\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\category\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\category\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\category\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\category\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\category\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\home\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\home\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\home\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\home\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\home\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\home\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\home\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\home\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\10.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\11.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\12.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\pro1\\9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\pro1\\9.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\shape\\background.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\shape\\background.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\shape\\basket.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\shape\\basket.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\value\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\value\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\value\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\value\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\veg-3\\value\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\veg-3\\value\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\10.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\11.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\12.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\13.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\14.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\15.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\4.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\5.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\6.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\7.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\8.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\banner\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\banner\\9.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\bg-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\bg-img.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\blog\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\blog\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\blog\\3.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\footer-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\footer-shape-2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\footer-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\footer-shape.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\newsletter\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\newsletter\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\newsletter\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\newsletter\\2.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\10.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\11.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\12.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\13.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\14.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\15.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\16.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\17.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\18.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\19.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\19.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\20.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\20.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\21.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\21.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\22.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\22.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\23.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\23.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\24.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\24.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\25.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\25.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\26.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\26.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\8.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\product\\9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\product\\9.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\review\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\review\\1.jpg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vegetable\\shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vegetable\\shape.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\arrow.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\become-saller.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\become-saller.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\breadcrumb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\breadcrumb.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\logo.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\logo\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\logo\\1.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\logo\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\logo\\2.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\logo\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\logo\\3.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\logo\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\logo\\4.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\logo\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\logo\\5.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\logo\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\logo\\6.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\images\\vendor-page\\logo\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vendor-page\\logo\\7.png"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\apexchart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apexchart.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\auto-height.js",
+      "PackagePath": "staticwebassets\\assets\\js\\auto-height.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\bootstrap\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\clipboard.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\copy-clipboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\copy-clipboard.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\custom-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom-chart.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\custom-slick-animated.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom-slick-animated.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\custom-wow.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom-wow.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\delivery-option.js",
+      "PackagePath": "staticwebassets\\assets\\js\\delivery-option.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\feather\\feather-icon.js",
+      "PackagePath": "staticwebassets\\assets\\js\\feather\\feather-icon.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\feather\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\feather\\feather.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\filter-sidebar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\filter-sidebar.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\fly-cart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fly-cart.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\jquery.elevatezoom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.elevatezoom.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\lazysizes.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lazysizes.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\lusqsztk.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lusqsztk.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\nav-tab.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nav-tab.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\otp.js",
+      "PackagePath": "staticwebassets\\assets\\js\\otp.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\quantity-2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\quantity-2.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\quantity.js",
+      "PackagePath": "staticwebassets\\assets\\js\\quantity.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\slick\\custom_slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick\\custom_slick.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\slick\\slick-animation.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick\\slick-animation.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick\\slick.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\sticky-cart-bottom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sticky-cart-bottom.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\table-column-remove.js",
+      "PackagePath": "staticwebassets\\assets\\js\\table-column-remove.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\theme-setting.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme-setting.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\timer1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\timer1.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\timer2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\timer2.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\timer3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\timer3.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\timer4.js",
+      "PackagePath": "staticwebassets\\assets\\js\\timer4.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\wizard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wizard.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\js\\zoom-filter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\zoom-filter.js"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\1\\biscuit.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\1\\biscuit.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\1\\breakfast.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\1\\breakfast.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\1\\cup.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\1\\cup.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\1\\drink.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\1\\drink.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\1\\frozen.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\1\\frozen.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\1\\grocery.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\1\\grocery.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\1\\meats.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\1\\meats.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\1\\milk.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\1\\milk.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\1\\pet.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\1\\pet.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\1\\vegetable.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\1\\vegetable.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\2\\1.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\2\\1.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\2\\2.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\2\\2.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\2\\3.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\2\\3.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\2\\4.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\2\\4.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\2\\5.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\2\\5.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\2\\6.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\2\\6.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\2\\7.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\2\\7.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\2\\8.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\2\\8.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\2\\9.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\2\\9.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\3\\buy.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\3\\buy.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\3\\delivery.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\3\\delivery.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\3\\leaf.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\3\\leaf.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\3\\user.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\3\\user.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\3\\work.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\3\\work.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\delivery.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\delivery.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\discount.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\discount.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\fashion\\blzer.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\fashion\\blzer.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\fashion\\cords.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\fashion\\cords.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\fashion\\gown.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\fashion\\gown.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\fashion\\jacket.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\fashion\\jacket.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\fashion\\jeans.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\fashion\\jeans.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\fashion\\shapewear.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\fashion\\shapewear.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\fashion\\sleepwear.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\fashion\\sleepwear.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\fashion\\swimwear.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\fashion\\swimwear.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\fashion\\t-shirt.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\fashion\\t-shirt.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\grid-3.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\grid-3.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\grid-4.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\grid-4.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\grid-5.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\grid-5.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\grid.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\grid.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\list.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\list.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\market.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\market.svg"
+    },
+    {
+      "Id": "G:\\Coding\\Programing\\languages\\C#\\Projects\\Asp\\ForceShop2\\ForceShop\\ForceShop.Web\\wwwroot\\assets\\svg\\product.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\product.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ForceShop.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ForceShop.Web.props",
+      "PackagePath": "build\\ForceShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ForceShop.Web.props",
+      "PackagePath": "buildMultiTargeting\\ForceShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ForceShop.Web.props",
+      "PackagePath": "buildTransitive\\ForceShop.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

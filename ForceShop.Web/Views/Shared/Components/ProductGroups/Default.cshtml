@@ -1,0 +1,22 @@
+﻿@model IEnumerable<ProductGroup>
+
+<div class="category-menu menu-xl">
+    <h3>دسته بندی</h3>
+    <ul>
+        @if (!Model.IsNullOrEmpty())
+        {
+            @foreach (var item in Model)
+            {
+                <li>
+                    <div class="category-list">
+                        <img src="../assets/svg/3/leaf.svg" class="blur-up lazyload" alt="">
+                        <h5>
+                            <a asp-controller="Product" asp-action="ShowProductByGroup" asp-route-id="@item.ID" asp-route-title="@item.GroupTitle">@item.GroupTitle</a>
+                        </h5>
+                    </div>
+                </li>
+            }
+        }
+
+    </ul>
+</div>

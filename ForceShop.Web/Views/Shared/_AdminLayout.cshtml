@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html lang="fa">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>پنل مدیریت</title>
+
+    <!-- Core CSS - Include with every page -->
+    <link href="/Admin/css/bootstrap-rtl.css" rel="stylesheet">
+    <link href="/Admin/css/font-awesome.css" rel="stylesheet">
+
+    <!-- فونت فارسی Vazir -->
+    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.0.0/dist/font-face.css" rel="stylesheet">
+
+    <!-- Page-Level Plugin CSS - Dashboard -->
+    <link href="/Admin/css/plugins/morris/morris-0.4.3.min.css" rel="stylesheet">
+    <link href="/Admin/css/plugins/timeline/timeline.css" rel="stylesheet">
+
+    <!-- SB Admin CSS - Include with every page -->
+    <link href="/Admin/css/sb-admin.css" rel="stylesheet">
+    
+
+
+
+    <style>
+        body {
+            font-family: 'Vazir', sans-serif; /* استفاده از فونت Vazir */
+        }
+
+        /* اطمینان از اینکه همه محتوا از فونت Vazir استفاده کند */
+        h1, h2, h3, h4, h5, h6, p, span {
+            font-family: 'Vazir', sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="wrapper">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">پنل مدیریت</a>
+            </div>
+            <!-- /.navbar-header -->
+
+            <ul class="nav navbar-top-links navbar-left">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <i class="fa fa-envelope fa-fw"></i> <i class="fa fa-caret-down"></i>
+                    </a>
+                    <ul class="dropdown-menu dropdown-messages">
+                        <li>
+                            <a href="#">
+                                <div>
+                                    <strong>جان اسمیت</strong>
+                                    <span class="pull-right text-muted">
+                                        <em>دیروز</em>
+                                    </span>
+                                </div>
+                                <div>متن پیام اول...</div>
+                            </a>
+                        </li>
+                        <li class="divider"></li>
+                        <!-- ادامه پیام‌ها -->
+                    </ul>
+                    <!-- /.dropdown-messages -->
+                </li>
+                <!-- /.dropdown -->
+                <!-- ادامه کد -->
+            </ul>
+            <!-- /.navbar-top-links -->
+
+            <div class="navbar-default navbar-static-side" role="navigation">
+                <div class="sidebar-collapse">
+                    <ul class="nav" id="side-menu">
+                        <li>
+                            <a asp-controller="Home" asp-area="Admin" asp-action="Index" ><i class="fa fa-dashboard fa-fw"></i> داشبورد</a>
+                        </li>
+                        <li>
+                            <a asp-controller="Users" asp-area="Admin" asp-action="Index"><i class="fa fa-dashboard fa-fw"></i> مدیریت کاربران</a>
+                        </li>
+                        <li>
+                            <a asp-controller="ProductGroups" asp-area="Admin" asp-action="Index"><i class="fa fa-dashboard fa-fw"></i> مدیریت گروه ها</a>
+                        </li>
+                        <li>
+                            <a asp-controller="Products" asp-area="Admin" asp-action="Index"><i class="fa fa-dashboard fa-fw"></i> مدیریت محصولات</a>
+                        </li>
+                        <!-- ادامه کد -->
+                    </ul>
+                    <!-- /#side-menu -->
+                </div>
+                <!-- /.sidebar-collapse -->
+            </div>
+            <!-- /.navbar-static-side -->
+        </nav>
+        <!-- /.navbar -->
+
+        <div id="page-wrapper">
+            <div class="container-fluid">
+                <!-- محتوا -->
+                @RenderBody()
+                <!-- پایان محتوا -->
+            </div>
+            <!-- /.container-fluid -->
+        </div>
+        <!-- /#page-wrapper -->
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- Script includes -->
+    <script src="/Admin/js/jquery.js"></script>
+    <script src="/Admin/js/bootstrap.min.js"></script>
+    <script src="/Admin/js/plugins/morris/raphael-2.1.0.min.js"></script>
+    <script src="/Admin/js/plugins/morris/morris.js"></script>
+    <script src="/Admin/js/sb-admin.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    @RenderSection("Scripts",false);
+</body>
+
+</html>

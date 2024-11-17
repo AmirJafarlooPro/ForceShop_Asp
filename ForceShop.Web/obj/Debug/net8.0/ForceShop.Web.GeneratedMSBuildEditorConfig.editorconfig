@@ -1,0 +1,283 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ForceShop.Web
+build_property.RootNamespace = ForceShop.Web
+build_property.ProjectDir = G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop - Beta\ForceShop.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\Coding\Programing\languages\C#\Projects\Asp\ForceShop2\ForceShop - Beta\ForceShop.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/ProductGroups/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEdyb3Vwc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/ProductGroups/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEdyb3Vwc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/ProductGroups/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEdyb3Vwc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/ProductGroups/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEdyb3Vwc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/ProductGroups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEdyb3Vwc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Account/OTPEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxPVFBFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Account/Registrer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RyZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Account/Resetpassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldHBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Account/SuccsesRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdWNjc2VzUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Account/SucsessChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdWNzZXNzQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Account/SucsessResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdWNzZXNzUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/HelpBuy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWxwQnV5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/JoinStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2luU3RhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/RefundProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWZ1bmRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/ReportBug.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXBvcnRCdWcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/Rules.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSdWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/SellerRules.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWxsZXJSdWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/sponsoring.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzcG9uc29yaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/suggestions_Criticisms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdWdnZXN0aW9uc19Dcml0aWNpc21zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/verifySeller.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2ZXJpZnlTZWxsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Home/Warranty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXYXJyYW50eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Product/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Product/ShowProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Product/ShowProductByGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93UHJvZHVjdEJ5R3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Product/ShowShopCartOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93U2hvcENhcnRPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Product/SubmitPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTdWJtaXRQcmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/Components/ProductGroupsFooter/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdEdyb3Vwc0Zvb3RlclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/Components/ProductGroups/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdEdyb3Vwc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/Components/ProductsList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdHNMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/Components/ShopCart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcENhcnRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/Components/ShopCart/Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcENhcnRcRW1wdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/SomethingWentWrong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNvbWV0aGluZ1dlbnRXcm9uZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/_LayoutFast.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRGYXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/_partialAddToCartAlert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYXJ0aWFsQWRkVG9DYXJ0QWxlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/_partialBreadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYXJ0aWFsQnJlYWRjcnVtYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/_partialProductItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYXJ0aWFsUHJvZHVjdEl0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Coding/Programing/languages/C\#/Projects/Asp/ForceShop2/ForceShop - Beta/ForceShop.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-98ywy4cc88
